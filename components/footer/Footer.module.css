@@ -1,0 +1,42 @@
+.footer {
+    background-color: rgb(44, 62, 80);
+}
+
+.mainSection {
+    display: flex;
+    justify-content: right;
+
+}
+
+.mainSection div {
+    margin-top: 60px;
+    color: white;
+}
+
+.Copyright h4 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.section1 {
+    width: 20%;
+}
+
+.section2 {
+    width: 30%;
+    margin-left: 15%;
+}
+.section2 a{
+    padding: 6px;
+    color: white;
+    margin-left: 22px;
+    border: solid;
+    border-radius: 20px;
+
+}
+
+.section3 {
+    width: 30%;
+}

@@ -1,0 +1,53 @@
+.main {
+    background-color: #1abc9c;
+}
+
+.mainSection {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.mainImage {
+    display: flex;
+    justify-content: center;
+
+}
+
+.mainText {
+    color: white;
+    text-align: center;
+}
+
+.mainText h1 {
+    text-align: center;
+    font-size: 4rem;
+    line-height: 3.5rem;
+}
+
+.smallText {
+    color: white;
+}
+
+.smallText h3 {
+    text-align: center;
+}
+
+.line1 {
+    height: 8px;
+    width: 100px;
+    color: white;
+    background-color: white;
+    border-radius: 2rem;
+}
+
+.mainLine {
+    display: flex;
+    justify-content: center;
+    top: 50px;
+}
+
+.star {
+    margin-top: -8px;
+    margin-left: 17px;
+    margin-right: 17px;
+}

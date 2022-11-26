@@ -1,0 +1,44 @@
+.header {
+    background-color: rgba(44, 62, 80);
+}
+
+.mainSection {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.logo {
+    width: 25%;
+    color: white;
+}
+
+.navbarItem {
+    color: white;
+    width: 75%;
+}
+
+.navbarItem ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.navbarItem ul li {
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 21px;
+    list-style-type: none;
+}
+
+.navbarItem ul li a:hover {
+    padding:10px;
+    background-color: #1abc9c;
+    border-radius: 3rem;
+    height: 30px;
+}
+
+
